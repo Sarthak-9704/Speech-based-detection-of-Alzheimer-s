@@ -48,5 +48,3 @@ A comparison of model performances is shown below:
 | XGBoost             | 0.715    | 0.747    | 0.807   |
 | Stacking Classifier | 0.727    | 0.759    | 0.806   |
 | Neural Network      | 0.707    | 0.736    | 0.778   |
-
-*(Replace '--' with actual performance metrics)*
